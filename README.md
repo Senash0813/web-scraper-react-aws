@@ -19,9 +19,8 @@ Before running the script, make sure you have the following installed:
 ### 1. Install Dependencies
 
 Install the required Python libraries using `pip`:
-
-```bash
 pip install -r requirements.txt
+
 
 ### 2. Download chromedriver
 
