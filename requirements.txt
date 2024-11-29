@@ -1,0 +1,4 @@
+selenium==4.13.0
+beautifulsoup4==4.13.2
+requests==2.31.0
+chromedriver
